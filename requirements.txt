@@ -1,5 +1,5 @@
 matplotlib==3.2.0
-opencv_python==3.4.3.18
+opencv_python==3.4.3
 numpy==1.16.5
 scipy==1.1.0
 Flask==1.1.2
