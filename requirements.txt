@@ -9,5 +9,5 @@ opencv_python_headless==3.4.10.37
 dlib==19.22.0
 pygame==2.0.1
 Pillow==8.2.0
-opencv-contrib-python_headeless==3.4.10.37
+opencv-contrib-python_headless==3.4.10.37
 opencv_python
