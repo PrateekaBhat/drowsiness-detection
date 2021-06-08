@@ -28,7 +28,8 @@ minH = 0.1 * cam.get(4)
 while True:
 
     ret, img = cam.read()
-
+    if ret == False:
+        break
     gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 
     faces = faceCascade.detectMultiScale(
