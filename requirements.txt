@@ -1,13 +1,8 @@
 gunicorn
-numpy==1.16.5
 matplotlib==3.2.0
 Flask==1.1.2
 imutils==0.5.1
 pandas==0.25.1
 scipy==1.1.0
-opencv-python-headless==3.4.10.37
-dlib==19.22.0
 pygame==2.0.1
 Pillow==8.2.0
-opencv-contrib-python-headless==3.4.10.37
-cmake==3.18.4
